@@ -1,7 +1,7 @@
 ---
 label: Tmpl-1
-hide_body: false
-display_field: tags
+hide_body: true
+display_field: title
 fields:
 - type: text
   name: layout
