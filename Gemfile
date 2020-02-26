@@ -1,10 +1,9 @@
-GEM
-  remote: https://rubygems.org/
-  specs:
-    jekyll-gist (1.3.5)
+# frozen_string_literal: true
 
-PLATFORMS
-  ruby
+source "https://rubygems.org"
 
-DEPENDENCIES
-  jekyll-gist
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
+
+gem "jekyll-gist", "~> 1.5"
