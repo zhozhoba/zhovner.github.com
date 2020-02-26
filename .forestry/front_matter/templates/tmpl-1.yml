@@ -1,0 +1,19 @@
+---
+label: Tmpl-1
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: category
+  label: category
+- type: text
+  name: tags
+  label: tags
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: title
+  label: title
